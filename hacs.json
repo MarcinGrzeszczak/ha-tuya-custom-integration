@@ -1,0 +1,5 @@
+{
+    "name": "Tuya Custom Integration",
+    "render_readme": true,
+    "homeassistant": "2024.12.2"
+  }

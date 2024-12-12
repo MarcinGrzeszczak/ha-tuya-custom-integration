@@ -1,0 +1,18 @@
+{
+
+    "domain": "tuya_custom_integration",
+    "name": "Tuya Custom Integration",
+    "codeowners": [
+        "@MarcinGrzeszczak"
+    ],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://github.com/MarcinGrzeszczak/ha-tuya-custom-integration",
+    "integration_type": "device",
+    "iot_class": "local_push",
+    "issue_tracker": "https://github.com/MarcinGrzeszczak/ha-tuya-custom-integration/issues",
+    "requirements": [
+        "tinytuya==1.15.1"
+    ],
+    "version": "2024.12.2"
+}
